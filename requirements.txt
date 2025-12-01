@@ -1,1 +1,11 @@
-
+pandas
+numpy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+joblib
+sqlalchemy
+pyodbc
+jupyter
+notebook
