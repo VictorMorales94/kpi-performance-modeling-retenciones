@@ -4,7 +4,6 @@ Funciones para simular impacto en target según coeficientes y reglas.
 
 Versión robusta: interpreta la unidad de las variables (0-1 ó 0-100) automáticamente.
 
-Ocultar texto citado
 Devuelve dict con base_target, objetivo, y dataframe 'candidates' con columnas:
 
 ['feature','coef','base','delta_x','nuevo','feasible','reason']
